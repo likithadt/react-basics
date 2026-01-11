@@ -1,0 +1,5 @@
+  1.  :!command  executes an external command.
+
+      Some useful examples are:
+	 (Windows)	  (Unix)
+	  :!dir		   :!ls		   -  shows a directory listing.
